@@ -18,6 +18,9 @@
 		<junit.version>5.6.0</junit.version>
 		<commons-lang3.version>3.9</commons-lang3.version>
 		<commons-cli.version>1.4</commons-cli.version>
+  		<sonar.projectKey>bauguste_tools</sonar.projectKey>
+  		<sonar.organization>bauguste</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencies>
